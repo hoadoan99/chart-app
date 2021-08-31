@@ -1,0 +1,19 @@
+.border-left-primary{
+  border-left: .25rem solid #4e73df!important;
+}
+.primary-bg{
+  background-color:#4e72df71 ;
+}
+.border-left-success {
+  border-left: .25rem solid #1cc88a!important;
+}
+.border-left-info {
+  border-left: .25rem solid #36b9cc!important;
+}
+.border-left-warning {
+  border-left: .25rem solid #f6c23e!important;
+}
+.text-gray-300 {
+  color: #edeef1!important;
+  font-size: 30px;
+}
